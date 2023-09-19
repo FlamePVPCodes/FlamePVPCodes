@@ -31,7 +31,7 @@ I'd love to connect with you, whether it's to discuss coding collaborations, Min
 
 - ▶ Subscribe to me on Youtube: [Youtube](https://www.youtube.com/@FIamePvP)
 - 💬 Reach out to me on Discord: (I don't have discord anymore)
-- 📧 Shoot me an email: [Email](FlameXD@skiff.com)
+- 📧 Shoot me an email: FlameXD@skiff.com
 
 ## Explore My Projects
 

@@ -1,5 +1,5 @@
 # 🔥 Welcome to FlamePvPCodes' GitHub Blaze! 🔥
-![FlamePvPCodes](https://avatars.githubusercontent.com/u/FlamePVPCodes)
+![FlamePvPCodes](https://avatars.githubusercontent.com/FlamePVPCodes)
 
 Greetings, fellow coding enthusiasts! I'm FlamePvPCodes, and I'm thrilled to have you here exploring my GitHub profile. 🚀
 

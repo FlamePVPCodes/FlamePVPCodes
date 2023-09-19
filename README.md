@@ -1,6 +1,7 @@
   # 🔥 Welcome to FlamePvPCodes' GitHub Blaze! 🔥
-![FlamePvPCodes](https://avatars.githubusercontent.com/FlamePVPCodes)
-
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/FlamePVPCpdes" alt="Your Logo">
+</div>
 Greetings, fellow coding enthusiasts! I'm FlamePvPCodes, and I'm thrilled to have you here exploring my GitHub profile. 🚀
 
 ## About Me

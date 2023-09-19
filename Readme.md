@@ -29,7 +29,7 @@ One of my current endeavors involves crafting browser bookmarklets that are desi
 
 I'd love to connect with you, whether it's to discuss coding collaborations, Minecraft PvP strategies, or simply to have a friendly chat. Here's how you can reach out:
 
-- ▶ Subscribe to me on Youtube:[Youtube](https://www.youtube.com/@FIamePvP)
+- ▶ Subscribe to me on Youtube:[Youtube] (https://www.youtube.com/@FIamePvP)
 - 💬 Reach out to me on Discord: (I don't have discord anymore)
 - 📧 Shoot me an email: [Email](FlameXD@skiff.com)
 

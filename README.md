@@ -46,8 +46,5 @@ Curious to see what I've been working on? Dive into my repositories to get a tas
 Coding is not just about writing lines of code; it's about solving problems and making life easier. I'm always eager to collaborate with fellow developers and build meaningful connections in the vast coding community. Whether you have a brilliant idea, need a coding partner, or simply want to chat about Minecraft PvP strategies, please don't hesitate to get in touch. Let's unite our coding powers and create something truly extraordinary!
 
 Thanks for visiting my GitHub profile. Together, we'll conquer challenges and make life a whole lot easier! 🔥🚀
-<div align="center">
-  <img src="![Banner](https://images.pexels.com/photos/54089/sun-clouds-sky-red-54089.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-" alt="Your Image" style="width: 100%; max-width: 800px;">
-</div>
+
 

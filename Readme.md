@@ -46,5 +46,5 @@ Curious to see what I've been working on? Dive into my repositories to get a tas
 Coding is not just about writing lines of code; it's about solving problems and making life easier. I'm always eager to collaborate with fellow developers and build meaningful connections in the vast coding community. Whether you have a brilliant idea, need a coding partner, or simply want to chat about Minecraft PvP strategies, please don't hesitate to get in touch. Let's unite our coding powers and create something truly extraordinary!
 
 Thanks for visiting my GitHub profile. Together, we'll conquer challenges and make life a whole lot easier! 🔥🚀
-[![trophy](https://github-profile-trophy.vercel.app/?username=-FlamePVPCodes)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=FlamePVPCodesma&rank=S,AAA
 
